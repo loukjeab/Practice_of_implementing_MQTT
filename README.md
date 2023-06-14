@@ -9,7 +9,7 @@ Directory Structure:
 
 - This repository is divined into 2 folders, so called Document folder and Implementation folder.
 
-1. Document folder: it consists of the PDF items as followed:
+1. Document folder: it consists of the PDF files as followed:
     
     - IDTT_Background_Manufacturing_Model_Factory
     - IDTT_Exercise_Introduction
