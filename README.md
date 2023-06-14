@@ -15,7 +15,7 @@ Directory Structure:
     - IDTT_Exercise_Introduction
     - IDTT_Exercise_MQTT
 
-2. Implementation folder: it consists of the Phython files as followed:
+2. Implementation folder: it consists of the Python files as followed:
 
     - TransportInputModule_Library.py
     - TransportInputModule_MQTT_Publisher_with_Sequential_Automation.py
